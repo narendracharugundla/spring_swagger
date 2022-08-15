@@ -1,0 +1,32 @@
+What is the use of Swagger in spring boot?
+
+Swagger2 is an open source project used to generate the REST API documents for RESTful web services. It provides a user interface to access our RESTful web services via the web browser. To enable the Swagger2 in Spring Boot application, you need to add the following dependencies in our build configurations file.
+
+What is the URL for Swagger UI in spring boot?
+Now go to http://localhost:8080/swagger-ui.html. Using the Try it button we can also check if the service is up.
+
+What is difference between postman and Swagger?
+Swagger is an API specification & Postman is an API Client and appropriate for API first development while, Postman is appropriate for testing such API based on specifications.
+
+What is the purpose of Swagger?
+
+Swagger helps users build, document, test and consume RESTful web services. It can be used with both a top-down and bottom-up API development approach. In the top-down, or design-first, method, Swagger can be used to design an API before any code is written.
+
+What is Swagger JSON?
+
+Swagger does this by asking your API to return a YAML or JSON that contains a detailed description of your entire API. This file is essentially a resource listing of your API which adheres to OpenAPI Specification.
+
+
+What is Swagger in Java?
+What is Swagger? Swagger is the most widely used tool for building APIs compliant to the OpenAPI Specification (OAS). Swagger itself is a set of open-source tools built around the OAS that can help you design, build, document, and generate the REST API documents for RESTful web services.
+
+
+Is Swagger a testing tool?
+Swagger UI is the best tool for programmers, testers, and end-users to know the benchmarks they are testing. It offers information regarding the service with the created OpenAPI requirement.
+
+
+
+
+
+
+
